@@ -85,7 +85,7 @@ We will Configure a **Kubernetes Cluster** using the *GKE* service of GCP
 
 ![](k8s2.png)
 
-- [x] **Default Node Locations:** asia-southeast-1-a, asia-southeast-1-b, asia-southeast-1-c.
+- [x] **Default Node Locations:**
 - [x] **Nodes per-zone:** 1
 - [x] **Total Nodes:** 3
 
